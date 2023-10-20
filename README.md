@@ -4,9 +4,7 @@ This project holds parameters, scripts and other information about my arduwhoop 
 
 https://docs.google.com/spreadsheets/d/1IXLM4TMvut4r6jN9-gEEboaGNLur6-ZLpiZj0F0QWQA/edit?usp=sharing
 
-![whoop with hand](imgs/whoop_with_hand.jpg)
-
-![whoop top view](imgs/whoop_top_view.jpg)
+![whoop with hand](imgs/arduwhoop.jpg)
 
 ## 3D Printed Parts
 
@@ -17,7 +15,7 @@ The 3D printed parts for this drone can be found in the `stls` folder.
 
 GN745
 
-![gn745](imgs/gn745_fc.png)
+![gn745](imgs/gn745_fc.PNG)
 
 ### GPS 
 | GPS |  FC  |
@@ -29,7 +27,7 @@ GN745
 | C   | SCL  |
 | D   | SDA  |
 
-![gps](imgs/gps.png)
+![gps](imgs/gps.PNG)
 
 ### Telemetry Radio
 
